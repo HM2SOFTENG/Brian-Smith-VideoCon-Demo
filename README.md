@@ -1,6 +1,9 @@
 # Brian-Smith-VideoCon-Demo
+
 Video Conference Application feature FrontEnd REACT, BackEnd ,NET core
+
 Video Chat Application - VideoApp Component
+
 The VideoApp component is a fundamental part of the Video Chat Application, built using React. It manages the state and behavior of the application related to video chat rooms, user interactions, and room management.
 
 Table of Contents
